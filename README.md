@@ -48,8 +48,8 @@ Este projeto utiliza a API de previsão do tempo da OpenWeatherMap para obter in
 3  Instale as dependências:
   - npm install
 4. Crie um arquivo .env no projeto, com a seguinte variável contendo sua API keys da API openweathermap:
-   - VITE_API_KEY = "API KEY"
-   - VITE_BASE_URL = "https://api.openweathermap.org/data/2.5/"
+  - VITE_API_KEY = "API KEY"
+  - VITE_BASE_URL = "https://api.openweathermap.org/data/2.5/"
 5. Inicie a aplicação:
   - npm start
   
