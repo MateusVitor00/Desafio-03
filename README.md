@@ -1,12 +1,12 @@
 # Atlantico Avanti - Desafio 03 - 📜
 Bootcamp em Desenvolvimento Full Stack da Atlântico Avanti.
-Professor(a): Germanno Gurgel do Amaral Teles (germannoteles(Qgmail.com )
-Monitor(a): Jheyele Raquel (Jheyele(Qgmail.com)
+Professor(a): Germanno Gurgel do Amaral Teles (germannoteles@gmail.com )
+Monitor(a): Jheyele Raquel (Jheyele@gmail.com)
 
 ## Descrição do projeto:
 Este projeto é uma aplicação web que utiliza ReactJS como biblioteca principal para o desenvolvimento front-end e React Hooks para gerenciar o estado da aplicação. Ele faz requisições HTTP para uma API no backend e exibe os dados retornados de forma interativa para a API de previsão do tempo da OpenWeatherMap e exibe os dados retornados de forma interativa.
 
-. Os dados apresentados são:
+Os dados apresentados são:
 - Temperatura
 - Temperatura mínima
 - Temperatura máxima
@@ -42,16 +42,16 @@ Este projeto utiliza a API de previsão do tempo da OpenWeatherMap para obter in
 
 ## Instalação
 1. Clone este repositório:
-  -git clone https://github.com/seu-usuario/projeto-Desafio-03.git
+  - git clone https://github.com/seu-usuario/projeto-Desafio-03.git
 3. Navegue até o diretório do projeto:
-  -cd projeto-Desafio-03
+  - cd projeto-Desafio-03
 3  Instale as dependências:
-  -  npm install
+  - npm install
 4. Inicie a aplicação:
-  -npm start
+  - npm start
   
 ## Equipe:
-- Ana Virginia lopes Cavalcante de Araújo (virginia.cloud.tec@gmail.com)																					
-- Mateus Vitor Clementino Martins (mateusvitor01.mvQgmail.com)
-- Matheus Prado Filgueiras (matheus.filgueiras 17 Qgmail.com) 
+- Ana Virginia (virginia.cloud.tec@gmail.com)																					
+- Mateus Vitor (mateusvitor01.mv@gmail.com)
+- Matheus Prado (matheus.filgueiras17@gmail.com) 
 
