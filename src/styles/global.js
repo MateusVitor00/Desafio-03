@@ -8,7 +8,8 @@ export const GlobalStyle =  createGlobalStyle`
   }
 
   body {
-   background-image: url(https://th.bing.com/th/id/R.5b3fddfcabe87bca3f48178791947424?rik=2lZbKquHGK62%2bQ&pid=ImgRaw&r=0);
+    background-color: black;
+    text-color: black;
    background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -19,6 +20,8 @@ export const GlobalStyle =  createGlobalStyle`
   font-family: "Open Sans", sans-serif;
   text-align: center;
   }
+
+
   body a{
     transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -39,5 +42,14 @@ export const GlobalStyle =  createGlobalStyle`
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
     outline: none;
+  }
+
+  p {
+    color: white;
+  }
+
+  .ol-attribution a,
+  .ol-attribution {
+    font-size: 12px;
   }
 `;
